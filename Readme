@@ -1,1 +1,3 @@
-This ps script automates adding users to Azure Active Directory 
+This ps script automates adding users to Azure Active Directory.
+
+Input user data in CSV.  
